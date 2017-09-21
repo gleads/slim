@@ -1,12 +1,15 @@
 {
-    "name": "slim/cropper",
+    "name": "gleads/slim-cropper",
     "type": "library",
     "description": "Adaptation for slim",
     "license": "BSD-3-Clause",
 
     "authors": [
         {
-            "name": "Arthur Silva"
+            "name": "Arthur Silva",
+            "email": "arthur.fsilva96@gmail.com",
+            "homepage": "https://arthurfsilva.github.io/",
+            "role": "Developer"
         }
     ],
     "require":{
